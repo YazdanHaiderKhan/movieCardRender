@@ -37,22 +37,24 @@ https://www.omdbapi.com/
 ## 📂 Folder Structure
 
 project-root/
-│ index.html
+│── index.html
 │
 ├── assets/
+│   └── screenshot.png
 │
 ├── config/
-│ └── config.js
+│   └── config.js
 │
-└── src/
-├── Api/
-│ └── movies.js
-│
-├── components/
-│ ├── MovieCard.js
-│ └── SearchBar.js
-│
-└── App.js
+├── src/
+│   ├── Api/
+│   │   └── movies.js
+│   │
+│   ├── components/
+│   │   ├── MovieCard.js
+│   │   └── SearchBar.js
+│   │
+│   └── App.js
+
 
 
 ## 📸 Screenshot

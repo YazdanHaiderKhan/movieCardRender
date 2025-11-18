@@ -1,4 +1,4 @@
-# 🎬 Movie Search App (Vanilla JavaScript)
+# 🎬 Movie Search App (JavaScript)
 
 A clean, beginner-friendly movie search web app built using **HTML, CSS, and JavaScript**, powered by the **OMDb API**.  
 The goal of this project was not just functionality, but **professional file structure, modular code, and graceful data handling**.
